@@ -1,0 +1,25 @@
+//java code that i wrote from my head. not much but eh, few months since i started hard learning
+
+String a = "this is string a";
+String b = "this is string b";
+String c = "this is string c";
+
+
+//the a,b,c strings will be printed
+		System.out.println("prints out 3 strings");
+		System.out.println("----------------------");
+		System.out.println(a + "    -");
+		System.out.println(b + "    -");
+		System.out.println(c + "    -");
+		System.out.println("----------------------");
+		System.out.println("Prints out 2 booleans");
+		
+		boolean isTrue = true;
+		boolean isFalse = false;
+		
+		System.out.println("----------------------");
+		System.out.println(isFalse +"-----------------");
+		System.out.println(isTrue + " -----------------");
+		System.out.println("----------------------");
+		//dogshit code as always
+    //make sure to integrate the code correctly within your ide
